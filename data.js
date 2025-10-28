@@ -1,0 +1,22 @@
+export const estudiantes = [
+  { id: 1, nombre: "Ana Pérez", carrera: "Ingeniería en Sistemas" },
+  { id: 2, nombre: "Luis Gómez", carrera: "Administración" },
+  { id: 3, nombre: "María López", carrera: "Derecho" },
+  { id: 4, nombre: "Carlos Ramírez", carrera: "Contaduría Pública" },
+  { id: 5, nombre: "Sofía Torres", carrera: "Psicología" },
+  { id: 6, nombre: "Jorge Fernández", carrera: "Ingeniería Civil" },
+  { id: 7, nombre: "Valeria Mendoza", carrera: "Medicina" },
+  { id: 8, nombre: "Diego Salazar", carrera: "Arquitectura" },
+  { id: 9, nombre: "Camila Rojas", carrera: "Ingeniería Industrial" },
+  { id: 10, nombre: "Andrés Vargas", carrera: "Economía" },
+  { id: 11, nombre: "Paula Navarro", carrera: "Educación" },
+  { id: 12, nombre: "Ricardo Castillo", carrera: "Ingeniería Electrónica" },
+  { id: 13, nombre: "Fernanda Ruiz", carrera: "Trabajo Social" },
+  { id: 14, nombre: "Mateo Aguilar", carrera: "Relaciones Internacionales" },
+  { id: 15, nombre: "Isabella Romero", carrera: "Comunicación Social" },
+  { id: 16, nombre: "Tomás Herrera", carrera: "Ingeniería Ambiental" },
+  { id: 17, nombre: "Lucía Cabrera", carrera: "Diseño Gráfico" },
+  { id: 18, nombre: "Sebastián Paredes", carrera: "Turismo" },
+  { id: 19, nombre: "Gabriela Fuentes", carrera: "Biología" },
+  { id: 20, nombre: "Martín Ortega", carrera: "Filosofía" }
+];
